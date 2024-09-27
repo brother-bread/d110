@@ -1,0 +1,8 @@
+start = root
+root = element root {info, place, time, p+, info}
+p = element p {mixed{(context | desc | info | place)*}}
+info = element info {text}
+place = element place {text}
+time = element time {text}
+context = element context {mixed{(place)*}}
+desc = element desc {mixed{ place*}}
