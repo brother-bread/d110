@@ -1,0 +1,3 @@
+start = root
+root = element text {stuff}
+stuff = element stuff {text}
