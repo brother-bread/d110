@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="kranz-09-03-xml3.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <source>https://darksouls.fandom.com/wiki/Knight_Artorias</source>
+    <dsone>Dark Souls <p n="1" info="background"><chrct type="major">Sir Artorias</chrct> was
+            one of the knights at the service of <chrct type="major">Gwyn, Lord of Sunlight</chrct>
+            and, thanks to his unmatched skill with a greatsword and unbendable will of steel[1], he
+            became one of Gwyn's most trusted warriors and was rewarded with a fragment of Gwyn's
+            powerful Lord Soul[2]. Along with <chrct type="major">Ornstein</chrct>, <chrct
+                type="minor">Ciaran</chrct> and <chrct type="minor">Gough</chrct>, he became part of
+            the <chrct type="major">Four Knights of Gwyn</chrct> and as a symbol of his association
+            with the order he gained a magical ring with the wolf symbol, which strengthened his
+            poise, making his fighting style with his greatsword more effective[1].</p>
+        <p n="2" info="artorias">Artorias wore his distinctive azure-blue tassel armor as a
+            symbol of pride and glory[3] and brandished his Greatsword[4] and Greatshield[5].
+            Artorias was also a dear friend of Ciaran, his companion as another Knight of Gwyn[6].
+            At a certain point Artorias met <chrct type="minor">Sif</chrct>, a great grey wolf, and
+            formed a deep bond with it, fighting alongside the fearsome animal like he was his
+            companion[7] to the point that the wolf learned to fight with his greatsword and
+            acquired the power of Artorias' soul[8][9][10].</p>
+        <p n="3" info="abyss">At some point after Lord Gwyn sacrificed himself to link the
+            fading First Flame, the <chrct type="major">Primordial Serpent Kaathe</chrct> began
+            searching for a human strong enough to become the Dark Lord capable of leading humans
+            and usher in an <concept type="major">Age of Dark</concept>[11]. At some point <chrct
+                type="minor">Kaathe</chrct> arrived in new Londo and managed to seduce the Four
+            Kings, powerful humans who had received a fragment of Gwyn's <item type="major">Lord
+                Soul</item>[12], to follow his ideals, teaching them the art of Lifedrain so that
+            they could preserve their humanity even while Undead and so cast off the shackles placed
+            upon them by the gods[13][14]. But his dark influence did not stop with the kings and in
+            fact their entire army followed them. The knights of <place type="major">New
+                Londo</place> became <chrct type="minor">Darkwraiths</chrct>[15], servants of the
+            Dark who learned the art of Lifedrain and used it to absorb humanity[16]. As the Four
+            Kings' were able to open an <concept type="major">Abyss</concept> in the center of their
+            city, their very bodies were mutated by their freed Dark Soul and the Darkwraiths' armor
+            transformed too[17] as they began to employ the <item type="minor">Red Eye Orbs</item>
+            granted by Kaathe[18] to seek humanity and plunge further into the powers of the
+            Dark[19],</p>
+        <p n="4" info="abyss">A nation of humans freed from the shackles of the <concept
+                type="major">Darksign</concept> and who not only began to understand the powers of
+            their Dark Soul but had an entire army at their disposal that shared this power
+            represented an unparalleled threat to the gods of <place type="major">Anor Londo</place>
+            who branded the Darkwraiths as diabolical enemies of man and of every living
+            thing[20][21]. For this reason Artorias, as one of the Four Knights of Gwyn, was sent to
+            fight the dark soldiers of New Londo and was given a Silver Pendant to deflect the Dark
+            of the Abyss in its magical forms[22]. However this did not prove sufficient to cross
+            the Abyss of the Four Kings and Artorias was forced to forge a covenant with the "beasts
+            of the Abyss"[23], obtaining a ring that would allow him to cross the Abyss but also
+            cursing his sword in the process[24]. Artorias thus became known as the "<concept
+                type="major">Abysswalker</concept>" and hunted the Darkwraiths[25] but failed to
+            eliminate the <chrct type="major">Four Kings</chrct> and thus close the <place
+                type="major">Abyss of New Londo</place>. Having failed to eliminate the dark threat,
+            an agonizing and terrible decision was made: flooding the entire land of New Londo
+            despite the realization that countless lives and the entire culture of the country would
+            be lost[26]. For this task, sorcerers were called[27] and the feat was accomplished
+            without even evacuating the city's civilians, sealing away the Four Kings, their
+            Darkwraiths and the entire population with them, the victims were thus cursed[28] and
+            became Ghosts roaming the ruins of their country[29].</p>
+        <p n="5" info="abyss">After his failure with the Four Kings[30]., the Primordial
+            Serpent Kaathe arrived in <place type="major">Oolacile</place> and manipulated the
+            country to upturn the grave of <chrct type="major">Manus</chrct>, a primordial man with
+            an extraordinary <concept type="major">Dark Soul</concept>[31] and dark sorcery
+            skills[32][33], that had been buried beneath the dungeons of their city and resurrect
+            him[34][35]. However, the royal family of Oolacile took the precious broken pendant of
+            Manus for themselves, giving it to <chrct type="minor">Princess Dusk</chrct>[36]. The
+            wrenching nostalgia connected to his object of obsession and the sincere hope to reclaim
+            it[37] drove Manus mad and his Dark Soul went wild, transforming him into a dark beast
+            eternally seeking his pendant[38]. His immense mass of humanity out of control led to
+            the manifestation of an Abyss that spread, threatening to devour the entire land[39].
+            The Dark emanating from Manus did not limit itself to generating countless Humanity
+            Phantoms with a will of their own but also influenced the residents of Oolacile, making
+            their humanity go wild and horribly mutating their bodies, bloating their head and
+            opening them with cracks lined with innumerable tiny red eyeballs and protuding brain
+            parts[40].</p>
+    </dsone>
+</root>

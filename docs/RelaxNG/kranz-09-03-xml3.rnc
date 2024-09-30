@@ -1,0 +1,17 @@
+start = root
+root = element root {source, dsone}
+source = element source {text}
+dsone = element dsone {text, p+}
+
+p = element p {mixed{(n | info | chrct | concept | item | place)*}}
+n = attribute n {"1" | "2" | "3" | "4" | "5"}
+info = attribute info {"background" | "artorias" | "abyss"}
+
+chrct = element chrct {mixed{type}}
+type = attribute type {"major" | "minor"}
+
+concept = element concept {mixed{type}}
+
+item = element item {mixed{type}}
+
+place = element place {mixed{type}}
